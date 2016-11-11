@@ -38,7 +38,8 @@
         android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/checkBox" />
+        android:id="@+id/checkBox"
+        android:theme="@style/WhiteCheck"/>
 
     <RadioGroup
         android:orientation="horizontal"
