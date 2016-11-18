@@ -39,7 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/checkBox"
-       />
+         />
 
     <RadioGroup
         android:orientation="horizontal"
@@ -66,6 +66,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/ratingBar" />
+
+
+
 
     <CalendarView
         android:layout_width="match_parent"
